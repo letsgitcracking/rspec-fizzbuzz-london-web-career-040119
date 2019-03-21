@@ -2,5 +2,5 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(num)
   if num == 3
-    puts "Fizz when the number is divisible by 3"
+    puts 'returns "Fizz" when the number is divisible by 3'
   elsif num ==
