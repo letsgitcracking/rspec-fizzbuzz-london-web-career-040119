@@ -3,4 +3,8 @@
 def fizzbuzz(num)
   if num % 3 == 0 
     puts 'Fizz'
-  elsif num ==
+  elsif num % 5 == 0 
+    puts 'Buzz'
+  else
+    num % 3 == 0 
+    puts 'Fizz'
